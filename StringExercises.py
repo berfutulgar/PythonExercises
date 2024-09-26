@@ -1,5 +1,5 @@
 """
-Changing strings:
+Convert even-indexed characters to uppercase in a string:
 
 before: "hi my name is john and i am learning python"
 after: "Hi mY NaMe iS JoHn i aM LeArNiNg pYtHoN"
